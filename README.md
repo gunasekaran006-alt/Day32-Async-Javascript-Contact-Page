@@ -2,10 +2,6 @@
 
 A modern, responsive User Directory web application that fetches real-time data from an external API and displays it using a clean, card-based UI.
 
-![HTML5](https://img.shields.io)
-![Bootstrap](https://img.shields.io)
-![JavaScript](https://img.shields.io)
-
 ## ✨ Features
 - **Live Data Fetching:** Integrates with `https://fakestoreapi.com` using Async/Await.
 - **Dynamic UI:** Generates user cards on the fly with custom initials-based avatars.
